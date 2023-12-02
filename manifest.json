@@ -1,0 +1,16 @@
+{
+  "name": "Gerzhan First Plugin",
+  "id": "1312631143854066508",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
